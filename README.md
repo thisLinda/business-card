@@ -1,5 +1,7 @@
 # Scrimba React (free!) Course -- Section 1 Solo Project
 
+Check it out! Current version with lorem ipsum in Dutch and Italian 🌷 🍕 [Digital Business Card](https://main.d25ulwywgneosd.amplifyapp.com/).
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
