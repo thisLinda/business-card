@@ -10,7 +10,7 @@ export default function Info() {
             <h4>https://github.com/thisLinda</h4>
             <div className='info--button'>
                 <button className='info--btn info--emailbtn'> 
-                <a href='mailto:la.for.lizzi@gmail.com'> <i className='fas fa-envelope' aria-hidden='true'></i>Email</a>
+                <a href='mailto:l.forlizzi.dev@gmail.com'> <i className='fas fa-envelope' aria-hidden='true'></i>Email</a>
                 </button>
             </div>
         </div>
